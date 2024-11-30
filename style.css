@@ -162,6 +162,9 @@ box-shadow: 0.5px 20px rgba(0, 0, 0, 0.2);
 max-width: 100%;
 border-radius: 4px;
 transform:scale(1.1);
+object-fit: cover;
+height: 180px;
+width: 300px;
 }
 .card-container .card .content{
 position: relative;
